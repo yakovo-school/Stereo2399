@@ -1,0 +1,42 @@
+Reference,Value,Tayda Link(aimed at stereo where relevant),Notes,Qty(mono),QTY(For Stereo)
+AudioInput1,Audio Input,https://www.taydaelectronics.com/6-35mm-1-4-stereo-chassis-socket-jack-3-terminals.html,"If in mono, order the same as DTIN1, Or use T in TRS for input with a Y splitter cable.",1,2
+AudioOut1,Audio Output,https://www.taydaelectronics.com/6-35mm-1-4-stereo-chassis-socket-jack-3-terminals.html,"If in mono, order the same as DTIN1, Or use R in TRS for output with a Y splitter cable.",1,2
+C1,47pF,https://www.taydaelectronics.com/10-x-47pf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+"C2,C4,C7",47uF,https://www.taydaelectronics.com/47uf-25v-105c-radial-electrolytic-capacitor-5x11mm.html,If you want to make as many caps be 50V then this one is slightly larger: https://www.taydaelectronics.com/47uf-50v-105c-radial-electrolytic-capacitor-6x11mm.html,3,6
+C3,100uF,https://www.taydaelectronics.com/100uf-50v-105c-radial-electrolytic-capacitor-8x12mm.html,The main link is a bit of a tight fit. If you want to have just 25V of limit then this one is a bit thinner: https://www.taydaelectronics.com/100uf-25v-105c-radial-electrolytic-capacitor-6x11mm.html,1,2
+"C5,C8,C9,C10,C14",0.1uF,https://www.taydaelectronics.com/a-553-0-1uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,5,10
+C6,.22uF,https://www.taydaelectronics.com/10-x-0-22uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+"C11,C18,C19,C21",1uF,https://www.taydaelectronics.com/1uf-50v-105c-jrb-radial-electrolytic-capacitor-5x11mm.html,,4,8
+"C12,C16",2200pF,https://www.taydaelectronics.com/10-x-2200pf-50v-ceramic-disc-capacitor-pkg-of-10.html,,2,4
+C13,4700pF,https://www.taydaelectronics.com/10-x-4700pf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+C15,0.015uF,https://www.taydaelectronics.com/10-x-0-015uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+C17,0.01uF,https://www.taydaelectronics.com/10-x-0-01uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+C20,100pF,https://www.taydaelectronics.com/10-x-100pf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+C22,0.047uF,https://www.taydaelectronics.com/10-x-0-047uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+C23,.022uF,https://www.taydaelectronics.com/10-x-0-022uf-50v-ceramic-disc-capacitor-pkg-of-10.html,,1,2
+D1,1N4001,https://www.taydaelectronics.com/1n4001-diode-1a-50v.html,,1,2
+DelayTime1,50k,https://www.taydaelectronics.com/tayda-b-50k-ohm-linear-taper-potentiometer-spline-shaft-pc-mount.html,,1,2
+Mix1,10k,https://www.taydaelectronics.com/10k-ohm-linear-dual-taper-potentiometer-pc-mount-round-shaft.html,For mono: https://www.taydaelectronics.com/b-10k-ohm-linear-taper-potentiometer-with-pc-mount.html,1,1
+Feedback1,50k,https://www.taydaelectronics.com/pb-50k-ohm-linear-dual-taper-potentiometer-pc-mount-round-shaft-l.html,For mono: Same as DelayTime1,1,1
+DTIN1,Time Delay,https://www.taydaelectronics.com/6-35mm-1-4-mono-chassis-socket-jack.html,,1,2
+FBSW1,SW_DIP_x01,https://www.taydaelectronics.com/dpdt-compact-stomp-foot-pedal-switch-momentary.html,Entirely optional if you don’t want to deal with Ping Pong. Just short this section with a cut leg of a resistor.,N/A,1
+J1,Power,https://www.taydaelectronics.com/dc-power-jack-2-1mm-round-type-panel-mount-1.html,Double check the input but this one has the longer lead be + on the common standard center-negative guitar pedal power input that many use.,1,2
+"R1,R2,R6,R7,R9,R10,R13",10k,https://www.taydaelectronics.com/10-x-resistor-10k-ohm-1-4w-1-metal-film-pkg-of-10.html,,7,14
+"R3,R4,R17",100k,https://www.taydaelectronics.com/10-x-resistor-100k-ohm-1-4w-1-metal-film-pkg-of-10.html,,3,6
+R5,2.7K,https://www.taydaelectronics.com/resistor-2-7k-ohm-1-4w-1-metal-film-pkg-of-10.html,,1,2
+"R8,R11",20k,https://www.taydaelectronics.com/resistor-20k-ohm-1-4w-1-metal-film-pkg-of-10.html,,2,4
+R12,360k,https://www.taydaelectronics.com/resistor-360k-ohm-1-4w-1-metal-film-pkg-of-10.html,,1,2
+"R14,R16",1k,https://www.taydaelectronics.com/10-x-resistor-1k-ohm-1-4w-1-metal-film-pkg-of-10.html,,2,4
+R15,180k,https://www.taydaelectronics.com/10-x-resistor-180k-ohm-1-4w-1-metal-film-pkg-of-10.html,,1,2
+R18,2k,https://www.taydaelectronics.com/resistor-2k-ohm-1-4w-1-metal-film-pkg-of-10.html,,1,2
+R19,5.1k,https://www.taydaelectronics.com/resistor-5-1k-ohm-1-4w-1-metal-film-pkg-of-10.html,,1,2
+"R20,R21,R22,R23",15k,https://www.taydaelectronics.com/10-x-resistor-15k-ohm-1-4w-1-metal-film-pkg-of-10.html,,4,8
+U2,PT2399,https://www.taydaelectronics.com/pt2399-2399-echo-audio-processor-guitar-ic.html,,1,2
+U3,L78L05,https://www.taydaelectronics.com/l78l05acz-l78l05-78l05-5-volts-100ma-voltage-regulator-ic.html,The holes on this one are a bit wide because whoops. ,1,2
+U4,TL072,https://www.taydaelectronics.com/tl072-low-noise-j-fet-dual-op-amp-ic.html,,1,2
+U2(socket),DIP16,https://www.taydaelectronics.com/16-pin-dip-ic-socket-adaptor-solder-type.html,,1,2
+U4(Socket),DIP8,https://www.taydaelectronics.com/8-pin-dip-ic-socket-adaptor-solder-type.html,,1,2
+Bypass for stereo,4PDT,https://www.taydaelectronics.com/4pdt-stomp-foot-pedal-switch.html,"Optional. In fact, we aren’t friends if you bypass my pedal. Don’t build it. I don’t want your money",N/A,1
+Bypass for mono,2PDT,Same as the FBSW1 part,Optional. Just follow the wiring diagram for 1 pair of I/O in the assembly PDF. Or see above,1,N/A
+Metal Enclosure,,https://www.taydaelectronics.com/1590xx-style-aluminum-diecast-enclosure.html,The 1590XX should leave plenty of Jiggle room. Tayda offers ones in other colors,1,1
+Power,9V Center Negative,https://www.amazon.com/Rockhouse-Adapter-Musical-Instruments-Negative/dp/B0C2ZQ68QY/ref=sr_1_6?dib=eyJ2IjoiMSJ9.Z3unZHL2zmzszWKPJpiVtIrJjsWv5t-x9TEPEpFuYkXcS9pqNdIoO-AVNW1bmZYRhDKuwRWerYrXHIYjus65TQowydBQrB7AG-Yvb02HBx0ddSYFj-QJmjhabFa80qem8EGSqc2kfLuFj_6eESnXXXvGcio3tGm7C8bkUXNUz_GuHRD3yHId0Xjdtgqi0DYjQ6K238mnsoI-ibDMjM-nRJ38ZnmBzv4xlGGG3HJfeMHckGOBnCsTzjF_t2UwZO-jpdEJR4GMhVt1ST3zsk581TnJcTUSb4ySFKTE9v_U5lE.m86WHGAq63Fey19Fq7D1rmzzRbv6vOnwKYQpOuM6K0s&dib_tag=se&keywords=9v+dc+center+negative&qid=1723934907&sr=8-6,Sorry for the link gore. Make sure your power socket diameters matches the diameter of the barrel plug. A korg power supply should also work.,,
